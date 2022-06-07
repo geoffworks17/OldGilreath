@@ -4,7 +4,7 @@
 
 [sub_resource type="CapsuleShape" id=1]
 radius = 0.5
-height = 0.90287
+height = 1.38248
 
 [node name="Player" type="KinematicBody"]
 collision_layer = 2
@@ -16,8 +16,9 @@ transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 0
 shape = SubResource( 1 )
 
 [node name="Head" type="Spatial" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.520119, 0 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.802588, 0 )
 
 [node name="Camera" type="Camera" parent="Head"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.00219202, 0 )
 current = true
-far = 250.0
+far = 400.0

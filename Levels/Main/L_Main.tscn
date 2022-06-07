@@ -119,6 +119,5 @@ use_collision = true
 mesh = ExtResource( 8 )
 
 [node name="Terrain" type="CSGMesh" parent="."]
-transform = Transform( 310, 0, 0, 0, 310, 0, 0, 0, 310, 0, 0, 0 )
 use_collision = true
 mesh = ExtResource( 7 )

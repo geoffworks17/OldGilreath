@@ -1,0 +1,8 @@
+{
+	"contains_albedo": false,
+	"resolution": 1024,
+	"src": {
+		"a": "res://Levels/Textures/grass2/Ground037_2K_Roughness.jpg",
+		"rgb": "res://Levels/Textures/grass2/Ground037_2K_NormalDX.jpg"
+	}
+}

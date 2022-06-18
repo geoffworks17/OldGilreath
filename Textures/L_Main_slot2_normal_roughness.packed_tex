@@ -1,0 +1,8 @@
+{
+	"contains_albedo": false,
+	"resolution": 1024,
+	"src": {
+		"a": "res://Levels/Textures/road/textures/aerial_asphalt_01_rough_2k.jpg",
+		"rgb": "#ff8888ff"
+	}
+}

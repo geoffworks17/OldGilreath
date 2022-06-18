@@ -1,0 +1,8 @@
+{
+	"contains_albedo": true,
+	"resolution": 1024,
+	"src": {
+		"a": "res://Levels/Textures/road/textures/aerial_asphalt_01_disp_2k.png",
+		"rgb": "res://Levels/Textures/road/textures/aerial_asphalt_01_diff_2k.jpg"
+	}
+}

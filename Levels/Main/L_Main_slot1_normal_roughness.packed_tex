@@ -1,0 +1,8 @@
+{
+	"contains_albedo": false,
+	"resolution": 512,
+	"src": {
+		"a": "res://Levels/Textures/road2/Road007_1K_Roughness.jpg",
+		"rgb": "res://Levels/Textures/road2/Road007_1K_NormalDX.jpg"
+	}
+}

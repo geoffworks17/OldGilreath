@@ -20,4 +20,4 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.520119, 0 )
 
 [node name="Camera" type="Camera" parent="Head"]
 current = true
-far = 250.0
+far = 500.0

@@ -43,6 +43,7 @@ enabled=PoolStringArray( "res://addons/zylann.hterrain/plugin.cfg" )
 [global]
 
 view=false
+dista=false
 
 [importer_defaults]
 

@@ -26,7 +26,7 @@
 [sub_resource type="Resource" id=1]
 script = ExtResource( 10 )
 mode = 0
-textures = [ [ ExtResource( 15 ), ExtResource( 13 ), ExtResource( 21 ), ExtResource( 22 ) ], [ ExtResource( 12 ), null, null, null ] ]
+textures = [ [ ExtResource( 15 ), ExtResource( 13 ), ExtResource( 22 ), ExtResource( 21 ) ], [ ExtResource( 12 ), null, null, null ] ]
 
 [node name="L_Main" type="Spatial"]
 script = ExtResource( 4 )
@@ -35,8 +35,8 @@ script = ExtResource( 4 )
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -42.3124, 49.1539, -146.658 )
 mouse_sensitivity = 16.0
 FOV = 70.0
-walk_speed = 8
-sprint_speed = 14
+walk_speed = 7
+sprint_speed = 10
 
 [node name="ArenaGeometry" type="Spatial" parent="."]
 visible = false

@@ -9,12 +9,12 @@ export var fast_close := true
 
 
 func _ready() -> void:
-	if !OS.is_debug_build():
-		fast_close = false
+	#if !OS.is_debug_build():
+	fast_close = true
 	
-	if fast_close:
-		print("** Fast Close enabled in the 'L_Main.gd' script **")
-		print("** 'Esc' to close 'Shift + F1' to release mouse **")
+	#if fast_close:
+	#	print("** Fast Close enabled in the 'L_Main.gd' script **")
+	#	print("** 'Esc' to close 'Shift + F1' to release mouse **")
 
 
 func _input(event: InputEvent) -> void:
